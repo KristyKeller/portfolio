@@ -1,3 +1,15 @@
 body {
-background-image: url("blu_stripes.png");
+    background-image: url("./assets/Images/blu_stripes.png");
+}
+
+
+#name{
+    color: red !important;
+
+}
+
+.navbar-text{
+    margin-left: auto !important;
+    margin-right: auto !important;
+
 }
