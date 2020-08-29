@@ -1,20 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-  <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <meta charset="UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
 </head>
+
 <body>
-        <nav class="navbar navbar-dark bg-dark">
-               <span class="navbar-text"><h1>Kristy Keller</h2></span>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span> 
-          </button>
-        </nav>
+    <nav class="navbar navbar-dark bg-dark">
+        <span class="navbar-text">
+            <h1>Kristy Keller</h1>
+        </span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent"
+            aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
     </nav>
-    <h1 class="display-2">Contact</h1>
+    </nav>
+    <form class="needs-validation" novalidate>
+        <section class="container">
+            <h1 class="display-2">Contact</h1>
+            <section class="form-row">
+                <section class="col-md-6 mb-3">
+                    <label for="validationTooltip01">Name</label>
+                    <input type="text" class="form-control" id="validationTooltip01" value="Name" required>
+                    <section class="valid-tooltip">
+                        Looks good!
+                    </section>
+                </section>
+            </section>
+            <section class="form-row">
+                <section class="col-md-6 mb-3">
+                    <label for="validationTooltip03">Email</label>
+                    <input type="text" class="form-control" id="validationTooltip03" value="Email"  required>
+                    <section class="invalid-tooltip">
+                        Email
+                    </section>
+                </section>
+            </section>
+                <section class="form-group">
+                    <label for="exampleFormControlTextarea1">Message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" col="2">Message
+                    </textarea>
+                </section>
+                </form>
+            <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+    </section>
 </body>
 </html>
