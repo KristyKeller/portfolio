@@ -6,3 +6,6 @@ https://kristykeller.github.io/
 * Made navigation bar and links fully functional 
 * Personalized each page
 * Ensured all HTML was semantic 
+
+![portfolio.](assets/images/about-me-page.png "portfolip screenshot")
+
