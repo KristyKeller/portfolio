@@ -7,5 +7,9 @@ https://kristykeller.github.io/
 * Personalized each page
 * Ensured all HTML was semantic 
 
-![portfolio](./assets/Images/about-me-page.png "portfolio screenshot")
+![about](./assets/Images/about-me-page.png "about me screenshot")
+
+![portfolio](./assets/Images/portfolio-page.png "portfolio screenshot")
+
+![contact](./assets/Images/contact-page.png "contact screenshot")
 
