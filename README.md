@@ -1,4 +1,4 @@
-# Responsiveness Portfolio
+# 👤 Portfolio
 https://kristykeller.github.io/
 
 ## Application Overview
