@@ -4,8 +4,6 @@
 ## Application Overview
 Professional profile showcasing my web development work, about me page, and contact form. Added and adjusted grid elements to react to different user devices. Made navigation bar and links fully functional. Personalized and designed each page. Ensured all HTML was semantic. 
 
-## Demo
-
 ## Screenshots
 
 ![about](./assets/Images/about-me-page.png "about me screenshot")
