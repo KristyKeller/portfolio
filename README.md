@@ -2,7 +2,7 @@
 ### [CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/)
 
 ## Application Overview
-Professional profile showcasing my web development work, about me page, and contact form. Added and adjusted grid elements to react to different user devices. Made navigation bar and links fully functional. Personalized and designed each page. Ensured all HTML was semantic. 
+Professional profile showcasing my web development work, about me page, resume and contact form. Added and adjusted grid elements to react to different user devices. Made navigation bar and links fully functional. Personalized and designed each page. Ensured all HTML was semantic. Projects linked to GitHub repos.
 
 ## Screenshots
 
@@ -22,6 +22,7 @@ Professional profile showcasing my web development work, about me page, and cont
 * CSS
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright 2020 ©Kristy Keller
 
