@@ -16,8 +16,6 @@ Professional profile showcasing my web development work, about me page, resume a
 * Bootstrap
 * Subtle Patterns
 * Font Awesome
-* JavaScript
-* jQuery
 * HTML
 * CSS
 
