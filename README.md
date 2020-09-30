@@ -1,5 +1,5 @@
 # 👤 Portfolio
-### [CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/)
+[CLICK HERE TO VIEW LIVE SITE](https://kristykeller.github.io/)
 
 ## Application Overview
 Professional profile showcasing my web development work, about me page, resume and contact form. Added and adjusted grid elements to react to different user devices. Made navigation bar and links fully functional. Personalized and designed each page. Ensured all HTML was semantic. Projects linked to GitHub repos.
